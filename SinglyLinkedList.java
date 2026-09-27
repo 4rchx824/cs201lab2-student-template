@@ -99,7 +99,7 @@ public class SinglyLinkedList<E extends Comparable<E>> {
         return sb.toString();
     }
 
-    // write your codes here
+    // write your codes here 
     public void swap() {
         if (size < 2) {
             return;
